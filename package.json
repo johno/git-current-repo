@@ -1,6 +1,6 @@
 {
   "name": "git-current-repo",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get the repo name from the current git directory",
   "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
   "repository": "johnotander/git-current-repo",
