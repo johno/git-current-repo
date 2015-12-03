@@ -1,0 +1,23 @@
+{
+  "name": "git-current-repo",
+  "version": "0.0.1",
+  "description": "Get the repo name from the current git directory",
+  "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
+  "repository": "johnotander/git-current-repo",
+  "license": "MIT",
+  "bin": "git-current-repo.sh",
+  "files": [
+    "git-current-repo.sh"
+  ],
+  "keywords": [
+    "cli-app",
+    "git",
+    "current",
+    "repo",
+    "repository",
+    "sh"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
