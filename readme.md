@@ -12,7 +12,7 @@ $ npm i -g git-current-repo
 
 ```sh
 $ git-current-repo
-# master
+# //github.com/johnotander/git-current-repo.git (fetch) //github.com/johnotander/git-current-repo.git (push)
 ```
 
 ## Acknowledgements
